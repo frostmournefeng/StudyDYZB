@@ -68,8 +68,56 @@
 		33AEDB3121C359F200310778 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				33AEDB3721C35A6A00310778 /* Follow */,
+				33AEDB3621C35A6200310778 /* Profile */,
+				33AEDB3521C35A5700310778 /* Main */,
+				33AEDB3421C35A4F00310778 /* Live */,
+				33AEDB3321C35A4700310778 /* Home */,
+				33AEDB3221C35A3B00310778 /* Tools */,
 			);
 			path = Classes;
+			sourceTree = "<group>";
+		};
+		33AEDB3221C35A3B00310778 /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		33AEDB3321C35A4700310778 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		33AEDB3421C35A4F00310778 /* Live */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Live;
+			sourceTree = "<group>";
+		};
+		33AEDB3521C35A5700310778 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		33AEDB3621C35A6200310778 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		33AEDB3721C35A6A00310778 /* Follow */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Follow;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
